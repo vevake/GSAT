@@ -13,6 +13,19 @@ Most of the current DST trackers make use of recurrent neural networks and are b
 In this paper, we propose an innovative neural model for dialogue state tracking, named <strong>G</strong>lobal encoder and <strong>S</strong>lot-<strong>At</strong>tentive decoders (G-SAT), which can predict the dialogue state with a very low latency time, while maintaining high-level performance. 
 We report experiments on three different languages (English, Italian, and German) of the WOZ2.0 dataset, and show that the proposed approach provides competitive advantages over state-of-art DST systems, both in terms of accuracy and in terms of time complexity for predictions, being over 15 times faster than the other systems.
 
+# Citation
+The bibtex is below.
+```
+@article{balaraman2019scalable,
+    title={Scalable Neural Dialogue State Tracking},
+    author={Vevake Balaraman and Bernardo Magnini},
+    year={2019},
+    eprint={1910.09942},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
+```
+
 # Dataset
 The [WoZ2.0 dataset](http://mi.eng.cam.ac.uk/~sjy/papers/mowt17.pdf) is used for the experiments. Thanks to [Nikola Mrksic](https://github.com/nmrksic) for making it publicly available.
 
