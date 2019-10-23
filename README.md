@@ -1,11 +1,11 @@
 # G-SAT: Scalable Neural Dialogue State Tracking
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="10%">[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="10%">](https://pytorch.org/)[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 
-<img align="right" src="imgs/unitn.png" width="20%">
-<img align="right" src="imgs/fbk.png" width="15%">
+[<img align="right" src="imgs/unitn.png" width="20%">](https://www.unitn.it/)
+[<img align="right" src="imgs/fbk.png" width="15%">](https://www.fbk.eu/en/)
 
-This is a PyTorch implementation of the paper: <strong>Scalable Neural Dialogue State Tracking.</strong> [Vevake Balaraman](https://scholar.google.it/citations?hl=it&user=GTtAXeIAAAAJ) and [Bernardo Magnini](https://scholar.google.it/citations?user=jnQE-4gAAAAJ&hl=it&oi=ao). [<strong>ASRU 2019</strong>](http://asru2019.org/wp/). [PDF](http://asru2019.org/wp/?page_id=1587)
+This is a PyTorch implementation of the paper: <strong>Scalable Neural Dialogue State Tracking.</strong> [Vevake Balaraman](https://scholar.google.it/citations?hl=it&user=GTtAXeIAAAAJ) and [Bernardo Magnini](https://scholar.google.it/citations?user=jnQE-4gAAAAJ&hl=it&oi=ao). [<strong>ASRU 2019</strong>](http://asru2019.org/wp/). [PDF](https://arxiv.org/abs/1910.09942)
 
 # Abstract
 A Dialogue State Tracker (DST) is a key component in a dialogue system aiming at estimating the beliefs of possible user goals at each dialogue turn.
